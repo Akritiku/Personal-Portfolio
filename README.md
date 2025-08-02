@@ -1,19 +1,20 @@
-💼 Personal Portfolio
+# 💼 Personal Portfolio
 A responsive personal portfolio website built using HTML, CSS, and JavaScript to showcase my skills, projects, and contact details.
 
-🚀 Features
-Clean and modern UI
+# 🚀 Features
 
-Fully responsive design
+1. Clean and modern UI
 
-Smooth scroll and navigation
+2. Fully responsive design
 
-Resume download button
+3. Smooth scroll and navigation
 
-Project showcase section
+4. Resume download button
 
-About Me and Contact section
+5. Project showcase section
 
-View Project
+6. About Me and Contact section
+
+# View Project
 
 https://personal-portfolio-omega-ebon.vercel.app/
